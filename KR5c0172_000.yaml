@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5c0172/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 真武靈應真君增上佑聖尊號冊文維大觀二年歲次戊子三月辛亥朔二十四日甲戌皇帝謹再拜言曰惟皇上帝孚佑下民統鎮北方有大神將至真示化緑感而通盛德隂功萬邦永賴恭惟真武靈應真君應虛危之次合龜蛇之形道德妙於難名威靈攝於萬有周行六合洞察無形祚善刑淫庇護羣品國家誕膺寶命百五十年肆及眇躬嗣承丕緒欲無不獲為無不成神人底寧海寓靜謐妖孽不作嘉祥荐臻太平之休厥為熙盛非神茂迪曷濟登茲冝進微稱式示昭答謹遣朝散郎試吏部尚書兼侍讀實録修撰賜紫金魚袋余深奉冊增上尊號曰佑聖真武靈應真君夫惟秉籙實典神天作民恭先其在隆禮情著於內備文以行尚冀眷昭俯埀貺祉謹言真武靈應真君增上佑聖尊號冊文
+  hash: sha256:efc197c138cc10f4809910e96384e215b87c1b5baca7505c1e6950d063dae740
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0172_HFL_000-001a, image: hfl/0556/0556-026.png}
+metadata:
+  title: 真武靈應真君增上佑聖尊號冊文
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:53:38.741468'
+  source:
+    repository: kanripo
+    path: KR5c0172/KR5c0172_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:7efb9c0508e28f612f4cdf955ef367c0d4ae84c6589d8d402dfa9494ce627336

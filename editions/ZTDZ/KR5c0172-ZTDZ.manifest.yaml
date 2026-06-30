@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0172/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0172/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 真武靈應真君增上佑聖尊號冊文
+  date: '2015-08-29 00:53:38.741468'
+  source:
+    repository: kanripo
+    path: KR5c0172
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0172_000-ZTDZ.yaml, hash: 'sha256:35607c2ad15c87b3dd6308b37ae59a30206a882953f4ebe4d14e61d67e4d4b63'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0172_000-ZTDZ.markers.yaml, hash: 'sha256:ca66f81b2b3a41b027c9c77c55c8db71d3b498668d7c70c423fce24cdbe81ec1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0172_SJB_000-180042a
+    span:
+    - body
+    - 0
+    - 272
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:0ffedf7c756c073161be760c15c6cd9c4085ffd0c81a63e16856665e0677507a
